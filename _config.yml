@@ -1,5 +1,5 @@
 title: Project Website
 description: Research Projects of Martin Lukac.
-show_downloads: true
+show_downloads: false
 google_analytics: true
 theme: jekyll-theme-tactile
