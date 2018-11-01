@@ -1,7 +1,3 @@
 ---
-layout: default
+layout: simple
 ---
-
-Github Page of Martin Lukac
-
-This is a test
